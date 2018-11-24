@@ -1,0 +1,12 @@
+#spring:
+#  application:
+#    name: order
+#  datasource:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    username: tianyadu
+#    password: Qq893214347!
+#    url: jdbc:mysql://47.95.6.60:3306/spring_cloud_sell?characterEncoding=utf8&useSSL=false&serverTimezone=UTC&rewriteBatchedStatements=true
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://localhost:8761/eureka/
